@@ -3,7 +3,12 @@
   width: 960px;
   height: 960px;
 }
-
+.reset{
+  float: left;
+  height: 30px;
+  width: 120px;
+  font-size: 15px;
+}
 .pixel{
   display: inline-block;
   float: left;
