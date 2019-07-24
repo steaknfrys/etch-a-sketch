@@ -1,0 +1,11 @@
+#screen{
+  margin: 0 auto;
+  width: 500px;
+  height: 500px;
+}
+
+.pixel{
+  display: inline-block;
+  float: left;
+  background-color: green;
+}
