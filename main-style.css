@@ -1,11 +1,11 @@
 #screen{
   margin: 0 auto;
-  width: 500px;
-  height: 500px;
+  width: 960px;
+  height: 960px;
 }
 
 .pixel{
   display: inline-block;
   float: left;
-  background-color: green;
+  background-color: #eff0f1;
 }
